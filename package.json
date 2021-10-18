@@ -1,0 +1,21 @@
+{
+    "name": "darken-world",
+    "displayName": "Darken World",
+    "description": "just some of darkening world",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darken World",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darken World-color-theme.json"
+            }
+        ]
+    }
+}
