@@ -63,7 +63,12 @@
 				"menubar.selectionForeground": "#778DA9",
 
 		// Sidebar
-			"sideBarTitle.foreground": "#E0E1DD",
+			// Background
+				"sideBar.background": "#1B263B",
+			// Foreground
+				"sideBar.foreground": "#E0E1DD",
+			// Title Foreground
+				"sideBarTitle.foreground": "#E0E1DD",
 
 	},
 	"tokenColors": [
