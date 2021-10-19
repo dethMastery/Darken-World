@@ -121,7 +121,15 @@
 				// BG
 					"list.hoverBackground": "#2E4165",
 				// FG
-					"list.hoverForeground": "#E0E1DD"
+					"list.hoverForeground": "#E0E1DD",
+
+			// Error
+				// FG
+					"list.errorForeground": "#FF5B5B",
+			
+			// Warning
+				// FG
+					"list.warningForeground": "#FFDC4F",
 
 	},
 	"tokenColors": [
