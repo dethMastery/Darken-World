@@ -22,6 +22,16 @@
 			// InActive FG
 				"titleBar.inactiveForeground": "#E0E1DD",
 				
+		// Tab
+			// Active Border
+				"tab.activeBorderTop": "#415A77",
+			// Border
+				"tab.border": "#415A77",
+			// InActive BG
+				"tab.inactiveBackground": "#778DA9",
+			// InActive FG
+				"tab.inactiveForeground": "#778DA9",
+
 		// Editor
 			// Background
 				"editor.background": "#0D1B2A",
