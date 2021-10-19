@@ -7,9 +7,6 @@
 		"activityBarBadge.background": "#5D7BB4",
 		"sideBarTitle.foreground": "#E0E1DD"
 	},
-	"workbench.colorCustomizations": {
-		"titleBar.activeBackground": "#0D1B2A"
-	},
 	"tokenColors": [
 		{
 			"name": "Comment",
