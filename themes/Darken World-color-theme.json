@@ -7,6 +7,9 @@
 		"activityBarBadge.background": "#384F7A",
 		"sideBarTitle.foreground": "#E0E1DD"
 	},
+	"workbench.colorCustomizations": {
+		"titleBar.activeBackground": "#0D1B2A"
+	},
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -150,7 +153,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#77dd77"
+				"foreground": "#D6DDEC"
 			}
 		},
 		{
