@@ -68,21 +68,24 @@
 				"menubar.selectionForeground": "#778DA9",
 
 		// Sidebar
-			// Background
+			// BG
 				"sideBar.background": "#1B263B",
-			// Foreground
+			// FG
 				"sideBar.foreground": "#E0E1DD",
 
-			// Title FG
-				"sideBarTitle.foreground": "#E0E1DD",
+			// Title 
+				// FG
+					"sideBarTitle.foreground": "#E0E1DD",
 
-			// Header BG
-				"sideBarSectionHeader.background": "#415A77",
-			// Header FG
-				"sideBarSectionHeader.foreground": "#E0E1DD",
+			// Header
+				// BG
+					"sideBarSectionHeader.background": "#415A77",
+				// FG
+					"sideBarSectionHeader.foreground": "#E0E1DD",
 
-			// Drop BG
-				"sideBar.dropBackground": "#1B263B",
+			// Drop 
+				// BG
+					"sideBar.dropBackground": "#1B263B",
 
 		// List
 			// Active Selection BG
