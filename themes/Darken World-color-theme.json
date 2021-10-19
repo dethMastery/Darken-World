@@ -25,12 +25,15 @@
 		// Tab
 			// Active Border
 				"tab.activeBorderTop": "#E0E1DD",
+				
 			// Border
 				"tab.border": "#415A77",
+
 			// InActive BG
 				"tab.inactiveBackground": "#415A77",
 			// InActive FG
 				"tab.inactiveForeground": "#E0E1DD",
+
 			// UnFocus Active BG
 				"tab.unfocusedActiveBackground": "#1B263B",
 
@@ -39,6 +42,7 @@
 				"editor.background": "#0D1B2A",
 			// Text
 				"editor.foreground": "#E0E1DD",
+
 			// Holding
 				"editor.selectionBackground": "#415A77",
 
@@ -67,12 +71,15 @@
 				"sideBar.background": "#1B263B",
 			// Foreground
 				"sideBar.foreground": "#E0E1DD",
+
 			// Title FG
 				"sideBarTitle.foreground": "#E0E1DD",
+
 			// Header BG
 				"sideBarSectionHeader.background": "#415A77",
 			// Header FG
 				"sideBarSectionHeader.foreground": "#E0E1DD",
+
 			// Drop BG
 				"sideBar.dropBackground": "#1B263B",
 
@@ -81,12 +88,15 @@
 				"list.activeSelectionBackground": "#2E4165",
 			// Active Selection FG
 				"list.activeSelectionForeground": "#E0E1DD",
+
 			// Focus BG
 				"list.focusBackground": "#2E4165",
 			// Focus FG
 				"list.focusForeground": "#E0E1DD",
+
 			// InActive Focus BG
 				"list.inactiveFocusBackground": "#2E4165",
+
 			// InActive Selection
 				"list.inactiveSelectionBackground": "#2E4165",
 			// InActive Selection
