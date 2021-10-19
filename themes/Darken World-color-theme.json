@@ -26,6 +26,9 @@
 					"titleBar.inactiveForeground": "#E0E1DD",
 				
 		// Tab
+			// BG
+				"tab.activeBackground": "#1B263B",
+
 			// Active Border
 				"tab.activeBorderTop": "#E0E1DD",
 
