@@ -131,11 +131,11 @@
 				// FG
 					"list.warningForeground": "#FFDC4F",
 			
-			// Notification
-				// BG
-					"notifications.background": "#2E4165",
-				// FG
-					"notifications.foreground": "#E0E1DD",
+		// Notification
+			// BG
+				"notifications.background": "#2E4165",
+			// FG
+				"notifications.foreground": "#E0E1DD",
 
 	},
 	"tokenColors": [
