@@ -74,7 +74,14 @@
 			// Header FG
 				"sideBarSectionHeader.foreground": "#E0E1DD",
 			// Drop BG
-				"sideBar.dropBackground": "#1B263B"
+				"sideBar.dropBackground": "#1B263B",
+
+		// List
+			// Active Selection BG
+				"list.activeSelectionBackground": "#415A77",
+			// Active Selection FG
+				"list.activeSelectionForeground": "#E0E1DD",
+				
 
 	},
 	"tokenColors": [
