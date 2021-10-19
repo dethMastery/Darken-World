@@ -2,7 +2,7 @@
 	"name": "Darken World",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#0D1B2A",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
