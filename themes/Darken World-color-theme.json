@@ -24,13 +24,15 @@
 				
 		// Tab
 			// Active Border
-				"tab.activeBorderTop": "#415A77",
+				"tab.activeBorderTop": "#0D1B2A",
 			// Border
 				"tab.border": "#415A77",
 			// InActive BG
-				"tab.inactiveBackground": "#778DA9",
+				"tab.inactiveBackground": "#415A77",
 			// InActive FG
 				"tab.inactiveForeground": "#E0E1DD",
+			// UnFocus Active BG
+				"tab.unfocusedActiveBackground": "#1B263B",
 
 		// Editor
 			// Background
