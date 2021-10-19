@@ -189,7 +189,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#81B4FF"
+				"foreground": "#8090BE"
 			}
 		},
 		{
@@ -200,7 +200,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF3737"
+				"foreground": "#6A7DB2"
 			}
 		},
 		{
@@ -210,7 +210,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF3737"
+				"foreground": "#6A7DB2"
 			}
 		},
 		{
@@ -345,7 +345,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF3737"
+				"foreground": "#7587B8"
 			}
 		},
 		{
