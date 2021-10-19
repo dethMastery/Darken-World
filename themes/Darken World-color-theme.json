@@ -14,13 +14,13 @@
 
 		// Title
 			// Active BG
-				"titleBar.activeBackground": "#415A77",
+				"titleBar.activeBackground": "#0D1B2A",
 			// Active FG
-				"titleBar.activeForeground": "#778DA9",
+				"titleBar.activeForeground": "#E0E1DD",
 			// InActive BG
-				"titleBar.inactiveBackground": "#0D1B2A",
+				"titleBar.inactiveBackground": "#415A77",
 			// InActive FG
-				"titleBar.inactiveForeground": "#1B263B",
+				"titleBar.inactiveForeground": "#E0E1DD",
 				
 		// Editor
 			// Background
