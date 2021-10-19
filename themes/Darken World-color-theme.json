@@ -26,7 +26,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#E0E1DD"
 			}
 		},
 		{
@@ -436,7 +436,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#E0E1DD"
 			}
 		},
 		{
@@ -594,7 +594,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#E0E1DD"
 			}
 		},
 		{
@@ -622,7 +622,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#E0E1DD"
 			}
 		}
 	]
