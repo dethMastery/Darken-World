@@ -24,7 +24,7 @@
 				
 		// Tab
 			// Active Border
-				"tab.activeBorderTop": "#0D1B2A",
+				"tab.activeBorderTop": "#E0E1DD",
 			// Border
 				"tab.border": "#415A77",
 			// InActive BG
@@ -74,7 +74,7 @@
 			// Header FG
 				"sideBarSectionHeader.foreground": "#E0E1DD",
 			// Drop BG
-				"sideBar.dropBackground": "#778DA9"
+				"sideBar.dropBackground": "#1B263B"
 
 	},
 	"tokenColors": [
