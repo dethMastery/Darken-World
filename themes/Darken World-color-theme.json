@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#0468FF"
+				"foreground": "#81B4FF"
 			}
 		},
 		{
@@ -76,7 +76,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#1B263B"
+				"foreground": "#81B4FF"
 			}
 		},
 		{
@@ -100,7 +100,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#0468FF"
+				"foreground": "#81B4FF"
 			}
 		},
 		{
@@ -175,7 +175,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#0468FF"
+				"foreground": "#81B4FF"
 			}
 		},
 		{
@@ -189,7 +189,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#0468FF"
+				"foreground": "#81B4FF"
 			}
 		},
 		{
@@ -220,7 +220,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#0468FF"
+				"foreground": "#81B4FF"
 			}
 		},
 		{
@@ -230,7 +230,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#0468FF"
+				"foreground": "#81B4FF"
 			}
 		},
 		{
@@ -268,7 +268,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#415A77"
+				"foreground": "#81B4FF"
 			}
 		},
 		{
@@ -399,7 +399,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#0468FF"
+				"foreground": "#81B4FF"
 			}
 		},
 		{
@@ -538,7 +538,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#0468FF"
+				"foreground": "#81B4FF"
 			}
 		},
 		{
