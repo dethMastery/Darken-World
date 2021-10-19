@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#0D1B2A",
 		"editor.foreground": "#E0E1DD",
-		"activityBarBadge.background": "#384F7A",
+		"activityBarBadge.background": "#5D7BB4",
 		"sideBarTitle.foreground": "#E0E1DD"
 	},
 	"workbench.colorCustomizations": {
@@ -280,7 +280,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#77dd77"
+				"foreground": "#51D451"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#384F7A"
+				"foreground": "#5D7BB4"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#384F7A"
+				"foreground": "#5D7BB4"
 			}
 		},
 		{
@@ -429,7 +429,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#77dd77"
+				"foreground": "#51D451"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#757575"
+				"foreground": "#939393"
 			}
 		},
 		{
@@ -468,7 +468,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#77dd77"
+				"foreground": "#51D451"
 			}
 		},
 		{
@@ -523,7 +523,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#757575"
+				"foreground": "#939393"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 				"markup.raw.block.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#757575"
+				"foreground": "#939393"
 			}
 		},
 		{
@@ -616,7 +616,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#757575"
+				"foreground": "#939393"
 			}
 		},
 		{
