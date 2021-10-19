@@ -3,7 +3,7 @@
     "displayName": "Darken World",
     "description": "just some of darkening world",
     "publisher": "deth",
-    "version": "1.0.3-c",
+    "version": "1.0.3.3",
     "engines": {
         "vscode": "^1.61.0"
     },
