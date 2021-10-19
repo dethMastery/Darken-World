@@ -13,15 +13,17 @@
 			"focusBorder": "#1B263B",
 
 		// Title
-			// Active BG
-				"titleBar.activeBackground": "#0D1B2A",
-			// Active FG
-				"titleBar.activeForeground": "#E0E1DD",
+			// Active 
+				// BG
+					"titleBar.activeBackground": "#0D1B2A",
+				// FG
+					"titleBar.activeForeground": "#E0E1DD",
 
-			// InActive BG
-				"titleBar.inactiveBackground": "#152B44",
-			// InActive FG
-				"titleBar.inactiveForeground": "#E0E1DD",
+			// InActive 
+				// BG
+					"titleBar.inactiveBackground": "#152B44",
+				// FG
+					"titleBar.inactiveForeground": "#E0E1DD",
 				
 		// Tab
 			// Active Border
@@ -30,13 +32,15 @@
 			// Border
 				"tab.border": "#415A77",
 
-			// InActive BG
-				"tab.inactiveBackground": "#415A77",
-			// InActive FG
-				"tab.inactiveForeground": "#E0E1DD",
+			// InActive 
+				// BG
+					"tab.inactiveBackground": "#415A77",
+				// FG
+					"tab.inactiveForeground": "#E0E1DD",
 
-			// UnFocus Active BG
-				"tab.unfocusedActiveBackground": "#1B263B",
+			// UnFocus Active 
+				// BG
+					"tab.unfocusedActiveBackground": "#1B263B",
 
 		// Editor
 			// BG
