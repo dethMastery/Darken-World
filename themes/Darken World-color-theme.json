@@ -17,6 +17,7 @@
 				"titleBar.activeBackground": "#0D1B2A",
 			// Active FG
 				"titleBar.activeForeground": "#E0E1DD",
+
 			// InActive BG
 				"titleBar.inactiveBackground": "#152B44",
 			// InActive FG
@@ -25,7 +26,7 @@
 		// Tab
 			// Active Border
 				"tab.activeBorderTop": "#E0E1DD",
-				
+
 			// Border
 				"tab.border": "#415A77",
 
@@ -98,9 +99,16 @@
 				"list.inactiveFocusBackground": "#2E4165",
 
 			// InActive Selection
-				"list.inactiveSelectionBackground": "#2E4165",
-			// InActive Selection
-				"list.inactiveSelectionForeground": "#E0E1DD",
+				// BG	
+					"list.inactiveSelectionBackground": "#2E4165",
+				// FG
+					"list.inactiveSelectionForeground": "#E0E1DD",
+
+			// Hover
+				// BG
+					"list.hoverBackground": "#2E4165",
+				// FG
+					"list.hoverForeground": "#E0E1DD"
 
 	},
 	"tokenColors": [
