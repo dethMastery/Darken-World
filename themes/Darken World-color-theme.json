@@ -30,7 +30,7 @@
 			// InActive BG
 				"tab.inactiveBackground": "#778DA9",
 			// InActive FG
-				"tab.inactiveForeground": "#778DA9",
+				"tab.inactiveForeground": "#E0E1DD",
 
 		// Editor
 			// Background
