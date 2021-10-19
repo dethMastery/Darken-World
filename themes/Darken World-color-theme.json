@@ -72,7 +72,9 @@
 			// Header BG
 				"sideBarSectionHeader.background": "#415A77",
 			// Header FG
-				"sideBarSectionHeader.foreground": "#E0E1DD"
+				"sideBarSectionHeader.foreground": "#E0E1DD",
+			// Drop BG
+				"sideBar.dropBackground": "#778DA9"
 
 	},
 	"tokenColors": [
