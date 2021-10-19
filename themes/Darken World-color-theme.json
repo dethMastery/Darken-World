@@ -39,13 +39,14 @@
 				"tab.unfocusedActiveBackground": "#1B263B",
 
 		// Editor
-			// Background
+			// BG
 				"editor.background": "#0D1B2A",
-			// Text
+			// FG
 				"editor.foreground": "#E0E1DD",
 
-			// Holding
-				"editor.selectionBackground": "#415A77",
+			// Focusing
+				// BG
+					"editor.selectionBackground": "#415A77",
 
 			// Front Column Line
 				"editorWhitespace.foreground": "#778DA9",
@@ -54,12 +55,14 @@
 				"selection.background": "#415A77",
 
 		// Menu
-			// Background
+			// BG
 				"menu.background": "#0D1B2A",
-			// Selection BG
-				"menu.selectionBackground": "#1B263B",
-			// Selection FG
-				"menu.selectionForeground": "#778DA9",
+				
+			// Selection
+				// BG
+					"menu.selectionBackground": "#1B263B",
+				// FG
+					"menu.selectionForeground": "#778DA9",
 		
 		// Menubar
 			// Selection BG
