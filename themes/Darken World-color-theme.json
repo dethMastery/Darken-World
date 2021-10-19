@@ -13,7 +13,15 @@
 			"focusBorder": "#1B263B",
 
 		// Title
-		
+			// Active BG
+				"titleBar.activeBackground": "#415A77",
+			// Active FG
+				"titleBar.activeForeground": "#778DA9",
+			// InActive BG
+				"titleBar.inactiveBackground": "#0D1B2A",
+			// InActive FG
+				"titleBar.inactiveForeground": "#1B263B",
+				
 		// Editor
 			// Background
 				"editor.background": "#0D1B2A",
