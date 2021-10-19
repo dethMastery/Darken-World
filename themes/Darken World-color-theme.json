@@ -67,8 +67,12 @@
 				"sideBar.background": "#1B263B",
 			// Foreground
 				"sideBar.foreground": "#E0E1DD",
-			// Title Foreground
+			// Title FG
 				"sideBarTitle.foreground": "#E0E1DD",
+			// Header BG
+				"sideBarSectionHeader.background": "#415A77",
+			// Header FG
+				"sideBarSectionHeader.foreground": "#E0E1DD"
 
 	},
 	"tokenColors": [
