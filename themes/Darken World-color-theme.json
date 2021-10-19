@@ -9,10 +9,42 @@
 	"name": "Darken World",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#0D1B2A",
-		"editor.foreground": "#E0E1DD",
-		"activityBarBadge.background": "#5D7BB4",
-		"sideBarTitle.foreground": "#E0E1DD"
+		// General
+			"focusBorder": "#1B263B",
+
+		// Title
+		
+		// Editor
+			// Background
+				"editor.background": "#0D1B2A",
+			// Text
+				"editor.foreground": "#E0E1DD",
+			// Holding
+				"editor.selectionBackground": "#415A77",
+
+			// Front Column Line
+				"editorWhitespace.foreground": "#778DA9",
+
+			// Another Holding
+				"selection.background": "#415A77",
+
+		// Menu
+			// Background
+				"menu.background": "#0D1B2A",
+			// Selection BG
+				"menu.selectionBackground": "#1B263B",
+			// Selection FG
+				"menu.selectionForeground": "#778DA9",
+		
+		// Menubar
+			// Selection BG
+				"menubar.selectionBackground": "#1B263B",
+			// Selection FG
+				"menubar.selectionForeground": "#778DA9",
+
+		// Sidebar
+			"sideBarTitle.foreground": "#E0E1DD",
+
 	},
 	"tokenColors": [
 		{
@@ -94,7 +126,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#FF3737"
+				"foreground": "#B60000"
 			}
 		},
 		{
@@ -284,7 +316,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#51D451"
+				"foreground": "#FFE68C"
 			}
 		},
 		{
@@ -493,7 +525,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FF3737"
+				"foreground": "#FF7171"
 			}
 		},
 		{
@@ -508,7 +540,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FF3737"
+				"foreground": "#FF7171"
 			}
 		},
 		{
@@ -518,7 +550,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#FF8B8B",
+				"foreground": "#FF6E6E",
 			}
 		},
 		{
