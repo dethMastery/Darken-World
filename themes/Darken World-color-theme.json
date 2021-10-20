@@ -116,17 +116,17 @@
 
 			// Info
 				// BG
-					"editorInfo.background": "#ff0000",
+					"editorInfo.background": "#384F7A",
 				// FG
-					"editorInfo.foreground": "#ff0000",
+					"editorInfo.foreground": "#E0E1DD",
 
 			// Indent Guide
 				// Active
 					// BG
-						"editorIndentGuide.activeBackground": "#ff0000",
+						"editorIndentGuide.activeBackground": "#778DA9",
 
 				// BG
-					"editorIndentGuide.background": "#ff0000",
+					"editorIndentGuide.background": "#5E7797",
 					
 			// Line
 				// Highlight
