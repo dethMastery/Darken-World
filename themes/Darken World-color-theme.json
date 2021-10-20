@@ -351,6 +351,8 @@
 			// Editor
 				// BG
 					"peekViewEditor.background": "#384F7A",
+				// Border
+					"peekViewEditor.matchHighlightBorder": "#415A77",
 
 			// Result
 				// BG
