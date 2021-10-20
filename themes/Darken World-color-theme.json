@@ -5,10 +5,10 @@
 // Hover Base			- 415A77	- Bdazzled Blue
 // Heading Base			- 778DA9	- Shadow Blue
 // Sub Heading Base		- 5E7797	- ~Blue Yonder
-// Text	 				- E0E1DD	- Platinum
-// Sub Text				- CFD1CB	- ~Timberwolf
 // Link Active			- BCC8D6	- ~Light Steel Blue
 // Link					- D0D8E2	- ~Beau Blue
+// Text	 				- E0E1DD	- Platinum
+// Sub Text				- CFD1CB	- ~Timberwolf
 
 // Added				- A0D2B2	- ~Turquoise Green
 // Warning / Modify		- FFDC4F	- ~Mustard
@@ -160,7 +160,7 @@
 					"editorBracketMatch.background": "#5E7797",
 				// Border
 					"editorBracketMatch.border": "#5E7797",
-					
+
 				// Fold
 					// BG
 						"editor.foldBackground": "#5E7797",
@@ -340,6 +340,27 @@
 				// FG
 					"quickInputList.focusForeground": "#E0E1DD",
 			
+		// Peek View
+			// Border
+				"peekView.border": "#384F7A",
+
+			// Title
+				// BG
+					"peekViewTitle.background": "#384F7A",
+
+			// Editor
+				// BG
+					"peekViewEditor.background": "#384F7A",
+
+			// Result
+				// BG
+					"peekViewResult.background": "#384F7A",
+
+				// Selection
+					// BG
+						"peekViewResult.selectionBackground": "#384F7A",
+					// FG
+						"peekViewResult.selectionForeground": "#E0E1DD",
 
 		// Badge
 			// BG
