@@ -71,8 +71,9 @@
 				"editor.foreground": "#E0E1DD",
 
 			// Header
-				// BG
-					"editorGroupHeader.tabsBackground": "#253450",
+				// Tab
+					// BG
+						"editorGroupHeader.tabsBackground": "#253450",
 
 			// Focusing
 				// BG
