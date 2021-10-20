@@ -1,13 +1,14 @@
 // Scheme
-// 	Rich Black FOGRA 29	- 0D1B2A
-// 	Oxford Blue			- 1B263B
-//  ~ Y In Mn Blue		- 384F7A
-// 	Bdazzled Blue		- 415A77
-// 	Shadow Blue			- 778DA9
-// 	Platinum 			- E0E1DD
+// 	Base				- 0D1B2A	- Rich Black FOGRA 29
+// 	Lower base			- 1B263B	- Oxford Blue
+//  Sub Lower Base		- 384F7A	- ~Y In Mn Blue
+// 	Hover Base			- 415A77	- Bdazzled Blue
+// 	Heading Base		- 778DA9	- Shadow Blue
+// 	Text	 			- E0E1DD	- Platinum
 
-// Error				- AD0000
-// Warning / Changed	- FFDC4F
+// Added				- A0D2B2	- ~Turquoise Green
+// Warning / Modify		- FFDC4F	- ~Mustard
+// Error / Deleted		- AD0000	- ~Rufous
 
 {
 	"name": "Darken World",
@@ -71,7 +72,6 @@
 				
 			// Warning
 				"editorWarning.foreground": "#FFDC4F",
-				"editorOverviewRuler.warningForeground": "#FFDC4F",
 
 		// Menu
 			// BG
@@ -185,8 +185,31 @@
 
 		// Git
 			// SideBar
+				// Untrack
+					"gitDecoration.untrackedResourceForeground": "#A0D2B2",
+
+				// Modified
+					"gitDecoration.modifiedResourceForeground": "#FFDC4F",
+
 			// Gutter
+				// Add
+					"editorGutter.addedBackground": "#A0D2B2",
+				// Modify
+					"editorGutter.modifiedBackground": "#FFDC4F",
+				// Deleted
+					"editorGutter.deletedBackground": "#AD0000",
+					
 			// Overview Ruler
+				// Add
+					"editorOverviewRuler.addedForeground": "#A0D2B2",
+				// Modify
+					"editorOverviewRuler.modifiedForeground": "#FFDC4F",
+				// Warning
+					"editorOverviewRuler.warningForeground": "#FFDC4F",
+				// Deleted
+					"editorOverviewRuler.deletedForeground": "#AD0000",
+
+					
 					
 		// Notification
 			// BG
