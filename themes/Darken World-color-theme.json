@@ -6,6 +6,9 @@
 // 	Shadow Blue			- 778DA9
 // 	Platinum 			- E0E1DD
 
+// Error				- AD0000
+// Warning / Changed	- FFDC4F
+
 {
 	"name": "Darken World",
 	"type": "dark",
@@ -63,7 +66,12 @@
 				"selection.background": "#415A77",
 
 			// Error
+				"editorError.foreground": "#AD0000",
+				"editorOverviewRuler.errorForeground": "#AD0000",
+				
 			// Warning
+				"editorWarning.foreground": "#FFDC4F",
+				"editorOverviewRuler.warningForeground": "#FFDC4F",
 
 		// Menu
 			// BG
