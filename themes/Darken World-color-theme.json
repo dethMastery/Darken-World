@@ -114,10 +114,29 @@
 						// FG
 							"editorInlayHint.typeForeground": "#E0E1DD",
 
+			// Info
+				// BG
+					"editorInfo.background": "#ff0000",
+				// FG
+					"editorInfo.foreground": "#ff0000",
+
+			// Indent Guide
+				// Active
+					// BG
+						"editorIndentGuide.activeBackground": "#ff0000",
+
+				// BG
+					"editorIndentGuide.background": "#ff0000",
+					
 			// Line
+				// Highlight
+					// Border
+						"editor.lineHighlightBorder": "#778DA9",
+
 				// Active 
 					// FG
 						"editorLineNumber.foreground": "#778DA9",
+
 				// InActive
 					// FG
 						"editorLineNumber.activeForeground": "#5E7797",
