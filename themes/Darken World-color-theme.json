@@ -7,6 +7,8 @@
 // Sub Heading Base		- 5E7797	- ~Blue Yonder
 // Text	 				- E0E1DD	- Platinum
 // Sub Text				- CFD1CB	- ~Timberwolf
+// Link Active			- BCC8D6	- ~Light Steel Blue
+// Link					- D0D8E2	- ~Beau Blue
 
 // Added				- A0D2B2	- ~Turquoise Green
 // Warning / Modify		- FFDC4F	- ~Mustard
@@ -292,6 +294,13 @@
 			// Placeholder
 				// FG
 					"input.placeholderForeground": "#CFD1CB",
+
+		// Link
+			// FG
+				"textLink.foreground": "#D0D8E2",
+
+			// Active FG
+				"textLink.activeForeground": "#BCC8D6",
 
 		// Badge
 			// BG
