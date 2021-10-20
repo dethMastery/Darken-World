@@ -51,6 +51,16 @@
 				// BG
 					"tab.unfocusedActiveBackground": "#1B263B",
 
+		// Panel
+			// BG
+				"panel.background": "#1B263B",
+			// Title
+				// Active
+					// FG
+						"panelTitle.activeForeground": "#E0E1DD",
+					// Border
+						"panelTitle.activeBorder": "#778DA9",
+
 		// Editor
 			// BG
 				"editor.background": "#0D1B2A",
