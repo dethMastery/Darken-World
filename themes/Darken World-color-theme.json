@@ -291,6 +291,7 @@
 				"input.background": "#384F7A",
 			// FG
 				"input.foreground": "#E0E1DD",
+				
 			// Placeholder
 				// FG
 					"input.placeholderForeground": "#CFD1CB",
@@ -307,9 +308,22 @@
 				"dropdown.background": "#0D1B2A",
 			// FG
 				"dropdown.foreground": "#E0E1DD",
+
 			// List
 				// BG
 					"dropdown.listBackground": "#384F7A",
+
+		// Quickpicker
+			// BG
+				"quickInput.background": "#1B263B",
+			// FG
+				"quickInput.foreground": "#E0E1DD",
+
+			// Focus
+				// BG
+					"quickInputList.focusBackground": "#384F7A",
+				// FG
+					"quickInputList.focusForeground": "#E0E1DD",
 
 		// Badge
 			// BG
