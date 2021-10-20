@@ -167,6 +167,10 @@
 					"activityBarBadge.background": "#384F7A",
 				// FG
 					"activityBarBadge.foreground": "#E0E1DD",
+
+				// Inactive
+					// FG
+						"activityBar.inactiveForeground": "#CFD1CB",
 					
 		// Notification
 			// BG
