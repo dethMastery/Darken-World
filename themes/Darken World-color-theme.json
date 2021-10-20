@@ -229,6 +229,12 @@
 				// FG
 					"input.placeholderForeground": "#CFD1CB",
 
+		// Badge
+			// BG
+				"badge.background": "#415A77",
+			// FG
+				"badge.foreground": "#E0E1DD",
+
 		// Notification
 			// BG
 				"notifications.background": "#2E4165",
