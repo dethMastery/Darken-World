@@ -335,7 +335,7 @@
 			// BG
 				"notifications.background": "#2E4165",
 			// FG
-				"notifications.foreground": "#E0E1DD",
+				"notifications.foreground": "#E0E1DD"
 	},
 	"tokenColors": [
 		{
