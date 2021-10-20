@@ -128,6 +128,13 @@
 				// BG
 					"editorIndentGuide.background": "#5E7797",
 					
+			// Light Bulb
+				// FG
+					"editorLightBulb.foreground": "#E0E1DD",
+				// Autofix
+					// FG
+						"editorLightBulbAutoFix.foreground": "#E0E1DD",
+
 			// Line
 				// Highlight
 					// Border
