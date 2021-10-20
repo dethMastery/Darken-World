@@ -1,6 +1,7 @@
 // Scheme
 // 	Rich Black FOGRA 29	- 0D1B2A
 // 	Oxford Blue			- 1B263B
+//  ~ Y In Mn Blue		- 384F7A
 // 	Bdazzled Blue		- 415A77
 // 	Shadow Blue			- 778DA9
 // 	Platinum 			- E0E1DD
@@ -154,7 +155,11 @@
 					"statusBar.debuggingBackground": "#384F7A",
 				// FG
 					"statusBar.debuggingForeground": "#E0E1DD",
-
+		// Activity
+			// BG
+				"activityBar.background": "#0D1B2A",
+			// FG
+				"activityBar.foreground": "#E0E1DD",
 					
 		// Notification
 			// BG
