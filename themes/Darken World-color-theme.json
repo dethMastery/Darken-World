@@ -89,6 +89,17 @@
 				// Hover 
 					// BG
 						"editorHoverWidget.background": "#384F7A",
+					// FG
+						"editorHoverWidget.foreground": "#E0E1DD",
+			// Hint
+				// FG
+					"editorHint.foreground": "#E0E1DD",
+				// Inlay
+					// BG
+						"editorInlayHint.background": "#384F7A",
+					// FG
+						"editorInlayHint.foreground": "#E0E1DD",
+					// 
 
 			// Line
 				// Active 
