@@ -155,6 +155,9 @@
 					// FG
 						"editorLineNumber.activeForeground": "#5E7797",
 
+			// Bracket Match
+				"editorBracketMatch.background": "#5E7797",
+
 		// Menu
 			// BG
 				"menu.background": "#0D1B2A",
