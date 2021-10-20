@@ -156,7 +156,14 @@
 						"editorLineNumber.activeForeground": "#5E7797",
 
 			// Bracket Match
-				"editorBracketMatch.background": "#5E7797",
+				// BG
+					"editorBracketMatch.background": "#5E7797",
+				// Border
+					"editorBracketMatch.border": "#5E7797",
+					
+				// Fold
+					// BG
+						"editor.foldBackground": "#5E7797",
 
 		// Menu
 			// BG
