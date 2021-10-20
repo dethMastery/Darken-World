@@ -208,9 +208,7 @@
 					"editorOverviewRuler.warningForeground": "#FFDC4F",
 				// Deleted
 					"editorOverviewRuler.deletedForeground": "#AD0000",
-
-					
-					
+										
 		// Notification
 			// BG
 				"notifications.background": "#2E4165",
