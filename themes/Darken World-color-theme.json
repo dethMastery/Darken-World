@@ -157,9 +157,9 @@
 
 			// Bracket Match
 				// BG
-					"editorBracketMatch.background": "#5E7797",
+					"editorBracketMatch.background": "#384F7A",
 				// Border
-					"editorBracketMatch.border": "#5E7797",
+					"editorBracketMatch.border": "#384F7A",
 
 				// Fold
 					// BG
