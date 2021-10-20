@@ -4,6 +4,7 @@
 // Sub Lower Base		- 384F7A	- ~Y In Mn Blue
 // Hover Base			- 415A77	- Bdazzled Blue
 // Heading Base			- 778DA9	- Shadow Blue
+// Sub Heading Base		- 5E7797	- ~Blue Yonder
 // Text	 				- E0E1DD	- Platinum
 // Sub Text				- CFD1CB	- ~Timberwolf
 
@@ -83,6 +84,19 @@
 				
 			// Warning
 				"editorWarning.foreground": "#FFDC4F",
+
+			// Widget
+				// Hover 
+					// BG
+						"editorHoverWidget.background": "#384F7A",
+
+			// Line
+				// Active 
+					// FG
+						"editorLineNumber.foreground": "#778DA9",
+				// InActive
+					// FG
+						"editorLineNumber.activeForeground": "#5E7797",
 
 		// Menu
 			// BG
