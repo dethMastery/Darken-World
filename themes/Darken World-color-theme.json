@@ -155,20 +155,24 @@
 					"statusBar.debuggingBackground": "#384F7A",
 				// FG
 					"statusBar.debuggingForeground": "#E0E1DD",
+
 		// Activity
 			// BG
 				"activityBar.background": "#0D1B2A",
 			// FG
 				"activityBar.foreground": "#E0E1DD",
+
+			// Badge
+				// BG
+					"activityBarBadge.background": "#384F7A",
+				// FG
+					"activityBarBadge.foreground": "#E0E1DD",
 					
 		// Notification
 			// BG
 				"notifications.background": "#2E4165",
 			// FG
 				"notifications.foreground": "#E0E1DD",
-
-		
-
 	},
 	"tokenColors": [
 		{
