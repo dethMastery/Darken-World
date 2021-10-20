@@ -70,6 +70,10 @@
 			// FG
 				"editor.foreground": "#E0E1DD",
 
+			// Header
+				// BG
+					"editorGroupHeader.tabsBackground": "#1B263B",
+
 			// Focusing
 				// BG
 					"editor.selectionBackground": "#415A77",
