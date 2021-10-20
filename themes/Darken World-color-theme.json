@@ -302,6 +302,15 @@
 			// Active FG
 				"textLink.activeForeground": "#BCC8D6",
 
+		// Dropdown
+			// BG
+				"dropdown.background": "#0D1B2A",
+			// FG
+				"dropdown.foreground": "#E0E1DD",
+			// List
+				// BG
+					"dropdown.listBackground": "#384F7A",
+
 		// Badge
 			// BG
 				"badge.background": "#415A77",
