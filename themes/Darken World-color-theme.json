@@ -131,6 +131,12 @@
 				// FG
 					"list.warningForeground": "#FFDC4F",
 			
+		// Status Bar
+			// Remote BG
+				"statusBarItem.remoteBackground": "#1B263B",
+			// Remote Fg
+				"statusBarItem.remoteForeground": "#E0E1DD",
+
 		// Notification
 			// BG
 				"notifications.background": "#2E4165",
