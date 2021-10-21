@@ -243,7 +243,7 @@
 					
 			// Remote 
 				// BG
-					"statusBarItem.remoteBackground": "#0D1B2A",
+					"statusBarItem.remoteBackground": "#415A77",
 				// Fg
 					"statusBarItem.remoteForeground": "#E0E1DD",
 
