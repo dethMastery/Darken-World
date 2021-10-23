@@ -15,7 +15,7 @@
 	// Error / Deleted			- AD0000	- ~Rufous
 
 	// HTML Part
-		// Doctype				- CFD1CB	- ~Timberwolf
+		// Doctype				- A4A89D	- ~Quick Silver
 		// Tag Color			- E0E1DD	- Platinum
 		// TagName				- 42C47E	- ~Emerald
 		// Attribute			- 489C9F	- ~Cadet Blue
@@ -1027,7 +1027,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html",
 			],
 			"settings": {
-				"foreground": "#CFD1CB",
+				"foreground": "#A4A89D",
 			},
 		},
 		{
@@ -1039,7 +1039,7 @@
 				"punctuation.definition.tag.end.html",
 			],
 			"settings": {
-				"foreground": "#CFD1CB",
+				"foreground": "#E0E1DD",
 			},
 		},
 		{
