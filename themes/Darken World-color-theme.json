@@ -18,20 +18,20 @@
 		// Doctype				- CFD1CB	- ~Timberwolf
 		// Tag Color			- E0E1DD	- Platinum
 		// TagName				- 42C47E	- ~Emerald
-		// Attribute			- C37E41	- ~Bronze
+		// Attribute			- 489C9F	- ~Cadet Blue
 		// Entities				- FF5B5B	- ~Orange Red Crayola
 
 	// CSS Part
-		// Selector				- 
-		// Variable				- 
-		// Punctuation			- 
+		// Selector				- 42C47E	- ~Emerald
+		// Variable				- 42C47E	- ~Emerald
+		// Punctuation			- 42C47E	- ~Emerald
 		// Prop. Name			- 
 		// Vendored Prop. Names	- 
-		// Prop. Value			- 
+		// Prop. Value			- 42C47E	- ~Emerald
 		// Constant				- 
 		// Pseudo classes		- 
 		// Function				- 
-		// Important Keyword	- 
+		// Important Keyword	- 42C47E	- ~Emerald
 
 {
 	"name": "Darken World",
@@ -1055,7 +1055,7 @@
 				"entity.other.attribute-name.html",
 			],
 			"settings": {
-				"foreground": "#C37E41",
+				"foreground": "#489C9F",
 				"fontStyle": "",
 			},
 		},
@@ -1080,7 +1080,7 @@
 				"source.css entity.name.tag",
 			],
 			"settings": {
-				"foreground": "#FFCC00",
+				"foreground": "#42C47E",
 				"fontStyle": "",
 			},
 		},
@@ -1088,7 +1088,7 @@
 			"name": "CSS: Variables",
 			"scope": "source.css variable",
 			"settings": {
-				"foreground": "#FFCC00",
+				"foreground": "#42C47E",
 				"fontStyle": "italic"
 			},
 		},
@@ -1096,7 +1096,7 @@
 			"name": "CSS: Punctuation",
 			"scope": "punctuation.definition.entity.css",
 			"settings": {
-				"foreground": "#FFCC00",
+				"foreground": "#42C47E",
 			},
 		},
 		{
@@ -1125,7 +1125,7 @@
 				"support.constant.property-value",
 			],
 			"settings": {
-				"foreground": "#FFCC00",
+				"foreground": "#42C47E",
 			},
 		},
 		{
@@ -1163,7 +1163,7 @@
 			"name": "CSS: Important Keyword",
 			"scope": "keyword.other.important",
 			"settings": {
-				"foreground": "#FFCC00",
+				"foreground": "#42C47E",
 			},
 		}
 	]
