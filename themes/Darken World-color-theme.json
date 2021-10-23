@@ -14,6 +14,11 @@
 	// Warning / Modify		- FFDC4F	- ~Mustard
 	// Error / Deleted		- AD0000	- ~Rufous
 
+	// HTML Part
+		// Doctype			- CFD1CB	- ~Timberwolf
+		// TagName			- 
+		// Attribute		-
+		// Entities			- 
 {
 	"name": "Darken World",
 	"type": "dark",
@@ -1007,7 +1012,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html",
 			],
 			"settings": {
-				"foreground": "#9194A2",
+				"foreground": "#CFD1CB",
 			},
 		},
 		{
@@ -1019,7 +1024,7 @@
 				"punctuation.definition.tag.end.html",
 			],
 			"settings": {
-				"foreground": "#ADB1C2",
+				"foreground": "#CFD1CB",
 			},
 		},
 		{
@@ -1146,19 +1151,6 @@
 			"settings": {
 				"foreground": "#FFCC00",
 			},
-		},
-		
-		// Sass Overrides
-		{
-			"name": "SCSS: Class names & IDs",
-			"scope": [
-				"source.css.scss entity.other.attribute-name.class.css",
-				"source.css.scss entity.other.attribute-name.id.css",
-			],
-			"settings": {
-				"foreground": "#FF577F",
-				"fontStyle": "",
-			},
-		},
+		}
 	]
 }
