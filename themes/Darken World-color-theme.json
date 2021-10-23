@@ -993,6 +993,172 @@
 			"settings": {
 				"foreground": "#afafaf"
 			}
-		}
+		},
+
+		// Html
+		{
+			"name": "HTML: Doctype Declaration",
+			"scope": [
+				"meta.tag.metadata.doctype.html entity.name.tag",
+				"meta.tag.metadata.doctype.html entity.other.attribute-name.html",
+				"meta.tag.sgml.doctype",
+				"meta.tag.sgml.doctype string",
+				"meta.tag.sgml.doctype entity.name.tag",
+				"meta.tag.sgml punctuation.definition.tag.html",
+			],
+			"settings": {
+				"foreground": "#9194A2",
+			},
+		},
+		{
+			"name": "HTML: Tags",
+			"scope": [
+				"meta.tag",
+				"punctuation.definition.tag.html",
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html",
+			],
+			"settings": {
+				"foreground": "#ADB1C2",
+			},
+		},
+		{
+			"name": "HTML: Tag Names",
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "#FFCC00",
+			},
+		},
+		{
+			"name": "HTML: Attribute Names",
+			"scope": [
+				"meta.tag entity.other.attribute-name",
+				"entity.other.attribute-name.html",
+			],
+			"settings": {
+				"foreground": "#B3FF63",
+				"fontStyle": "",
+			},
+		},
+		{
+			"name": "HTML: Entities",
+			"scope": [
+				"constant.character.entity",
+				"punctuation.definition.entity",
+			],
+			"settings": {
+				"foreground": "#FF577F",
+			},
+		},
+		
+		// CSS Overrides
+		{
+			"name": "CSS: Selectors",
+			"scope": [
+				"meta.selector",
+				"meta.selector entity",
+				"meta.selector entity punctuation",
+				"source.css entity.name.tag",
+			],
+			"settings": {
+				"foreground": "#FFCC00",
+				"fontStyle": "",
+			},
+		},
+		{
+			"name": "CSS: Variables",
+			"scope": "source.css variable",
+			"settings": {
+				"foreground": "#FFCC00",
+				"fontStyle": "italic"
+			},
+		},
+		{
+			"name": "CSS: Punctuation",
+			"scope": "punctuation.definition.entity.css",
+			"settings": {
+				"foreground": "#FFCC00",
+			},
+		},
+		{
+			"name": "CSS: Property Names",
+			"scope": [
+				"source.css meta.property-name",
+				"source.css support.type.property-name",
+			],
+			"settings": {
+				"foreground": "#f3f4f5",
+			},
+		},
+		{
+			"name": "CSS: Vendored Property Names",
+			"scope": [
+				"source.css support.type.vendored.property-name",
+			],
+			"settings": {
+				"foreground": "#f3f4f5AA",
+			},
+		},
+		{
+			"name": "CSS: Property Values",
+			"scope": [
+				"meta.property-value",
+				"support.constant.property-value",
+			],
+			"settings": {
+				"foreground": "#FFCC00",
+			},
+		},
+		{
+			"name": "CSS: Constant",
+			"scope": [
+				"source.css support.constant",
+			],
+			"settings": {
+				"foreground": "#B3FF63",
+				"fontStyle": "italic"
+			},
+		},
+		{
+			"name": "CSS: Pseudo classes",
+			"scope": [
+				"entity.other.attribute-name.pseudo-class.css",
+				"entity.other.attribute-name.pseudo-element.css",
+			],
+			"settings": {
+				"foreground": "#FF577F",
+				"fontStyle": ""
+			},
+		},
+		{
+			"name": "CSS: Functions",
+			"scope": [
+				"source.css support.function",
+			],
+			"settings": {
+				"foreground": "#B3FF63",
+				"fontStyle": "italic"
+			},
+		},
+		{
+			"name": "CSS: Important Keyword",
+			"scope": "keyword.other.important",
+			"settings": {
+				"foreground": "#FFCC00",
+			},
+		},
+		
+		// Sass Overrides
+		{
+			"name": "SCSS: Class names & IDs",
+			"scope": [
+				"source.css.scss entity.other.attribute-name.class.css",
+				"source.css.scss entity.other.attribute-name.id.css",
+			],
+			"settings": {
+				"foreground": "#FF577F",
+				"fontStyle": "",
+			},
+		},
 	]
 }
