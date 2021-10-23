@@ -1169,7 +1169,7 @@
 		},
 		{
 			"name": "CSS: Other Color",
-			"scope": "const.other.color",
+			"scope": "constant.other.color",
 			"settings": {
 				"foreground": "#688E8F",
 				"fontStyle": ""
