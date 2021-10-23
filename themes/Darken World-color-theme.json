@@ -20,7 +20,6 @@
 		// TagName				- 42C47E	- ~Emerald
 		// Attribute			- 489C9F	- ~Cadet Blue
 		// Entities				- FF5B5B	- ~Orange Red Crayola
-		// String				- 688E8F	- ~Steel Teal
 
 	// CSS Part
 		// Selector				- 42C47E	- ~Emerald
@@ -1075,7 +1074,7 @@
 			"name": "HTML: String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#688E8F",
+				"foreground": "#E0E1DD",
 				"fontStyle": "italic"
 			}
 		},
