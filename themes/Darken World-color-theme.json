@@ -23,14 +23,14 @@
 
 	// CSS Part
 		// Selector				- 42C47E	- ~Emerald
-		// Variable				- 42C47E	- ~Emerald
+		// Variable				- A0D2B2	- ~Turquoise Green
 		// Punctuation			- 42C47E	- ~Emerald
 		// Prop. Name			- 
 		// Vendored Prop. Names	- 
 		// Prop. Value			- 42C47E	- ~Emerald
-		// Constant				- 
-		// Pseudo classes		- 
-		// Function				- 
+		// Constant				- 688E8F	- ~Steel Teal
+		// Pseudo classes		- FFDC4F	- ~Mustard
+		// Function				- 688E8F	- ~Steel Teal
 		// Important Keyword	- 42C47E	- ~Emerald
 
 {
@@ -1088,7 +1088,7 @@
 			"name": "CSS: Variables",
 			"scope": "source.css variable",
 			"settings": {
-				"foreground": "#42C47E",
+				"foreground": "#A0D2B2",
 				"fontStyle": "italic"
 			},
 		},
@@ -1134,7 +1134,7 @@
 				"source.css support.constant",
 			],
 			"settings": {
-				"foreground": "#B3FF63",
+				"foreground": "#688E8F",
 				"fontStyle": "italic"
 			},
 		},
@@ -1145,7 +1145,7 @@
 				"entity.other.attribute-name.pseudo-element.css",
 			],
 			"settings": {
-				"foreground": "#FF577F",
+				"foreground": "#FFDC4F",
 				"fontStyle": ""
 			},
 		},
@@ -1155,7 +1155,7 @@
 				"source.css support.function",
 			],
 			"settings": {
-				"foreground": "#B3FF63",
+				"foreground": "#688E8F",
 				"fontStyle": "italic"
 			},
 		},
