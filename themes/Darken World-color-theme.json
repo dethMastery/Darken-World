@@ -25,7 +25,7 @@
 		// Selector				- 42C47E	- ~Emerald
 		// Variable				- A0D2B2	- ~Turquoise Green
 		// Punctuation			- 42C47E	- ~Emerald
-		// Prop. Name			- F5F5F5	- Cultured / [html]whitesmoke
+		// Prop. Name			- CFD1CB	- ~Timberwolf
 		// Vendored Prop. Names	- 688E8F	- ~Steel Teal
 		// Prop. Value			- 42C47E	- ~Emerald
 		// Constant				- 688E8F	- ~Steel Teal
@@ -1115,7 +1115,7 @@
 				"source.css support.type.property-name",
 			],
 			"settings": {
-				"foreground": "#F5F5F5",
+				"foreground": "#CFD1CB",
 			},
 		},
 		{
