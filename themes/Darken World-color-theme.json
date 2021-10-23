@@ -16,9 +16,10 @@
 
 	// HTML Part
 		// Doctype			- CFD1CB	- ~Timberwolf
-		// TagName			- 
-		// Attribute		-
-		// Entities			- 
+		// Tag Color		- E0E1DD	- Platinum
+		// TagName			- 42C47E	- ~Emerald
+		// Attribute		- C37E41	- ~Bronze
+		// Entities			- FF5B5B	- ~Orange Red Crayola
 {
 	"name": "Darken World",
 	"type": "dark",
@@ -1024,14 +1025,14 @@
 				"punctuation.definition.tag.end.html",
 			],
 			"settings": {
-				"foreground": "#CFD1CB",
+				"foreground": "#E0E1DD",
 			},
 		},
 		{
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#FFCC00",
+				"foreground": "#42C47E",
 			},
 		},
 		{
@@ -1041,7 +1042,7 @@
 				"entity.other.attribute-name.html",
 			],
 			"settings": {
-				"foreground": "#B3FF63",
+				"foreground": "#C37E41",
 				"fontStyle": "",
 			},
 		},
@@ -1052,7 +1053,7 @@
 				"punctuation.definition.entity",
 			],
 			"settings": {
-				"foreground": "#FF577F",
+				"foreground": "#FF5B5B",
 			},
 		},
 		
