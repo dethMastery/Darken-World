@@ -1,25 +1,38 @@
 // Scheme
-	// Base					- 0D1B2A	- Rich Black FOGRA 29
-	// Lower base			- 1B263B	- Oxford Blue
-	// Sub Lower Base		- 384F7A	- ~Y In Mn Blue
-	// Hover Base			- 415A77	- Bdazzled Blue
-	// Heading Base			- 778DA9	- Shadow Blue
-	// Sub Heading Base		- 5E7797	- ~Blue Yonder
-	// Link Active			- BCC8D6	- ~Light Steel Blue
-	// Link					- D0D8E2	- ~Beau Blue
-	// Text	 				- E0E1DD	- Platinum
-	// Sub Text				- CFD1CB	- ~Timberwolf
+	// Base						- 0D1B2A	- Rich Black FOGRA 29
+	// Lower base				- 1B263B	- Oxford Blue
+	// Sub Lower Base			- 384F7A	- ~Y In Mn Blue
+	// Hover Base				- 415A77	- Bdazzled Blue
+	// Heading Base				- 778DA9	- Shadow Blue
+	// Sub Heading Base			- 5E7797	- ~Blue Yonder
+	// Link Active				- BCC8D6	- ~Light Steel Blue
+	// Link						- D0D8E2	- ~Beau Blue
+	// Text	 					- E0E1DD	- Platinum
+	// Sub Text					- CFD1CB	- ~Timberwolf
 
-	// Added				- A0D2B2	- ~Turquoise Green
-	// Warning / Modify		- FFDC4F	- ~Mustard
-	// Error / Deleted		- AD0000	- ~Rufous
+	// Added					- A0D2B2	- ~Turquoise Green
+	// Warning / Modify			- FFDC4F	- ~Mustard
+	// Error / Deleted			- AD0000	- ~Rufous
 
 	// HTML Part
-		// Doctype			- CFD1CB	- ~Timberwolf
-		// Tag Color		- E0E1DD	- Platinum
-		// TagName			- 42C47E	- ~Emerald
-		// Attribute		- C37E41	- ~Bronze
-		// Entities			- FF5B5B	- ~Orange Red Crayola
+		// Doctype				- CFD1CB	- ~Timberwolf
+		// Tag Color			- E0E1DD	- Platinum
+		// TagName				- 42C47E	- ~Emerald
+		// Attribute			- C37E41	- ~Bronze
+		// Entities				- FF5B5B	- ~Orange Red Crayola
+
+	// CSS Part
+		// Selector				- 
+		// Variable				- 
+		// Punctuation			- 
+		// Prop. Name			- 
+		// Vendored Prop. Names	- 
+		// Prop. Value			- 
+		// Constant				- 
+		// Pseudo classes		- 
+		// Function				- 
+		// Important Keyword	- 
+
 {
 	"name": "Darken World",
 	"type": "dark",
@@ -1001,7 +1014,7 @@
 			}
 		},
 
-		// Html
+		// HTML
 		{
 			"name": "HTML: Doctype Declaration",
 			"scope": [
