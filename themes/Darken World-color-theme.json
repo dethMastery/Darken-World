@@ -25,13 +25,14 @@
 		// Selector				- 42C47E	- ~Emerald
 		// Variable				- A0D2B2	- ~Turquoise Green
 		// Punctuation			- 42C47E	- ~Emerald
-		// Prop. Name			- 
-		// Vendored Prop. Names	- 
+		// Prop. Name			- F5F5F5	- Cultured / [html]whitesmoke
+		// Vendored Prop. Names	- 688E8F	- ~Steel Teal
 		// Prop. Value			- 42C47E	- ~Emerald
 		// Constant				- 688E8F	- ~Steel Teal
 		// Pseudo classes		- FFDC4F	- ~Mustard
 		// Function				- 688E8F	- ~Steel Teal
 		// Important Keyword	- 42C47E	- ~Emerald
+		// Other Color			- 688E8F	- ~Steel Teal
 
 {
 	"name": "Darken World",
@@ -1106,7 +1107,7 @@
 				"source.css support.type.property-name",
 			],
 			"settings": {
-				"foreground": "#f3f4f5",
+				"foreground": "#F5F5F5",
 			},
 		},
 		{
@@ -1115,7 +1116,7 @@
 				"source.css support.type.vendored.property-name",
 			],
 			"settings": {
-				"foreground": "#f3f4f5AA",
+				"foreground": "#688E8F",
 			},
 		},
 		{
@@ -1165,6 +1166,14 @@
 			"settings": {
 				"foreground": "#42C47E",
 			},
+		},
+		{
+			"name": "CSS: Other Color",
+			"scope": "const.other.color",
+			"settings": {
+				"foreground": "#688E8F",
+				"fontStyle": ""
+			}
 		}
 	]
 }
